@@ -32,8 +32,7 @@ FAANG companies are known for their rigorous interview processes that test a can
 
 The repository is organized into the following folders:
 
--**Tree** /
-    **Binary Tree**: Contains various binary tree problems and their solutions.
+- **Binary Tree**: Contains various binary tree problems and their solutions.
 - **Graph Algorithms**: Contains various graph algorithm problems and their solutions.
 
 Each folder contains code files for the respective topics, along with their executable files.
