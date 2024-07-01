@@ -1,6 +1,5 @@
 # DSA FAANG Questions
 
-![DSA](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*vqu9jfqNQUeXvQf-pyCr1g.png)
 
 Welcome to the **DSA FAANG Questions** repository! This repository contains a comprehensive collection of Data Structures and Algorithms (DSA) problems commonly asked in FAANG (Facebook, Amazon, Apple, Netflix, Google) interviews. The goal is to help you prepare for technical interviews and master DSA concepts.
 
@@ -27,15 +26,13 @@ Data Structures and Algorithms (DSA) are the building blocks of computer science
 
 FAANG companies are known for their rigorous interview processes that test a candidate's understanding of DSA concepts. The questions are designed to assess problem-solving skills, coding proficiency, and the ability to optimize solutions.
 
-![FAANG](https://www.myprojecthelp.com/assets/Images/faang_m1.png)
+
 
 ## Repository Structure
 
 The repository is organized into the following folders:
 
--**Tree** 
-    |
-    |---**Binary Tree**: Contains various binary tree problems and their solutions.
+- **Binary Tree**: Contains various binary tree problems and their solutions.
 - **Graph Algorithms**: Contains various graph algorithm problems and their solutions.
 
 Each folder contains code files for the respective topics, along with their executable files.
