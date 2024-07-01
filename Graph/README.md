@@ -21,6 +21,9 @@ Here is a list of the problems included in this repository:
 4. Depth-First Search (DFS)
 5. Topological Sort
 6. Cycle Detection in Undirected Graph
+7. Topological Sort using DFS 
+8. Topological Sort using BFS (Kahn's Algorithm) 
+
 
 ## Installation
 
