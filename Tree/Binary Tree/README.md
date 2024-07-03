@@ -36,6 +36,7 @@ Here is a list of the problems included in this repository:
 18. Cycle Detection in Undirected Graph
 19. Construct Binary Tree from Preorder and Inorder Traversal (https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) 
 20. Burning Tree 
+21. Morris Traversal
 
 
 ## Installation
