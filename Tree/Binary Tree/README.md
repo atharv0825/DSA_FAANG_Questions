@@ -16,28 +16,27 @@ Binary trees are a fundamental data structure used in computer science and are f
 
 Here is a list of the problems included in this repository:
 
-1. Identical Trees
-2. Right View of Binary Tree
-3. Sum Tree
-4. Zig-Zag Traversal
-5. Balanced Tree
-6. Bottom View of Binary Tree
-7. Boundary Traversal
-8. Diameter of Tree
-9. Height of Binary Tree
-10. Left View of Binary Tree
-11. Top View of Binary Tree
-12. Vertical Traversal of Binary Tree
-13. Find Lowest Common Ancestor
-14. Level Order Traversing 
-15. k path sum 
-16. BFS Traversal
-17. DFS Traversal
-18. Cycle Detection in Undirected Graph
-19. Construct Binary Tree from Preorder and Inorder Traversal (https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) 
-20. Burning Tree 
-21. Morris Traversal
-
+### [1. Breadth-First Search (BFS)](BFS.cpp)
+### [2. Burning Tree](BurnTree.cpp)
+### [3. Lowest Common Ancestor](CommonAncestor.cpp)
+### [4. Depth-First Search (DFS)](DFS.cpp)
+### [5. Identical Trees](IdenticalTrees.cpp)
+### [6. K Path Sum](KpathSum.cpp)
+### [7. Morris Traversal](MorisTraversal.cpp)
+### [8. Right View of Binary Tree](RightView.cpp)
+### [9. Sum Tree](SumTree.cpp)
+### [10. Zig-zag Traversal](Zig-zagtraversal.cpp)
+### [11. Balanced Tree](balancedTree.cpp)
+### [12. Bottom View](bottomView.cpp)
+### [13. Boundary Traversal](boundryTraversal.cpp)
+### [14. Diameter of Tree](diameterOftree.cpp)
+### [15. Height of Binary Tree](heightBinaryTree.cpp)
+### [16. Cycle Detection in Graph](isCycle.cpp)
+### [17. Left View of Binary Tree](leftView.cpp)
+### [18. Level Order Traversal](levelOrder.cpp)
+### [19. Preorder and Inorder Traversal](preAndIn.cpp)
+### [20. Top View of Tree](topViewTree.cpp)
+### [21. Vertical Traversal](verticalTraversal.cpp)
 
 ## Installation
 
