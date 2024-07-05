@@ -15,14 +15,15 @@ Graph algorithms are a fundamental part of computer science and are frequently f
 
 Here is a list of the problems included in this repository:
 
-1. Adjacency List
-2. Adjacency Matrix
-3. Breadth-First Search (BFS)
-4. Depth-First Search (DFS)
-5. Topological Sort
-6. Cycle Detection in Undirected Graph
-7. Topological Sort using DFS 
-8. Topological Sort using BFS (Kahn's Algorithm) 
+### 1. [Adjacency List](AdjacancyList.cpp)
+### 2. [Adjacency Matrix](AdjacancyMatrix.cpp)
+### 3. [Breadth-First Search (BFS)](BSF.cpp)
+### 4. [Depth-First Search (DFS)](DSF.cpp)
+### 5. [Topological Sort](Topological_sort.cpp)
+### 6. [Cycle Detection in Undirected Graph](isCycle.cpp)
+### 7. [Topological Sort using DFS](Topological_sort.cpp)
+### 8. [Topological Sort using BFS (Kahn's Algorithm)](TopologicalSort_BFS_Kahns_Algo.cpp)
+### 9. [NP-Complete Problem](np_complete_problem.cpp) 
 
 
 ## Installation
