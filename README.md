@@ -3,7 +3,7 @@
 
 Welcome to the **DSA FAANG Questions** repository! This repository contains a comprehensive collection of Data Structures and Algorithms (DSA) problems commonly asked in FAANG (Facebook, Amazon, Apple, Netflix, Google) interviews. The goal is to help you prepare for technical interviews and master DSA concepts.
 
-#NOTE
+## NOTE
 
 #### Please read the README file inside this folder to explore the questions related to each algorithms (I mentioned questions in README.MD).
 
