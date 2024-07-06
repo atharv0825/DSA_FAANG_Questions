@@ -18,6 +18,7 @@ void make_adjList( unordered_map<int,list<int>>&adjList,vector<pair<int,int>>&ed
 
 
 vector<int>bfs(int vertices,unordered_map<int ,list<int>>&adjList){
+    //calculate indegree
     vector<int>inDegree(vertices + 1, 0);
     for(auto i : adjList){
         for(auto j : i.second){

@@ -13,7 +13,7 @@ Graph algorithms are a fundamental part of computer science and are frequently f
 
 ## Problems List
 
-Here is a list of the problems included in this repository:
+#### Here is a list of the problems included in this repository:
 
 ### 1. [Adjacency List](AdjacancyList.cpp)
 ### 2. [Adjacency Matrix](AdjacancyMatrix.cpp)
@@ -22,8 +22,8 @@ Here is a list of the problems included in this repository:
 ### 5. [Cycle Detection in Undirected Graph](isCycle.cpp)
 ### 6. [Topological Sort using DFS](Topological_sort.cpp)
 ### 7. [Topological Sort using BFS (Kahn's Algorithm)](TopologicalSort_BFS_Kahns_Algo.cpp)
-
-
+### 8. [Detect cycle in directed Graph](isCycleDirected.cpp) 
+### 9. [Find shortest path in Unweighted Graph](shortestPathUW.cpp)
 
 ## Installation
 
