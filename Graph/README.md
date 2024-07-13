@@ -24,6 +24,7 @@ Graph algorithms are a fundamental part of computer science and are frequently f
 ### 7. [Topological Sort using BFS (Kahn's Algorithm)](TopologicalSort_BFS_Kahns_Algo.cpp)
 ### 8. [Detect cycle in directed Graph](isCycleDirected.cpp) 
 ### 9. [Find shortest path in Unweighted Graph](shortestPathUW.cpp)
+### 10. [Minimum Spanning Tree (Kruskal's Algorithm)](minimumSpanningTree.cpp)
 
 ## Installation
 
