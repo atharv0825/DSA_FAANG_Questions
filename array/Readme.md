@@ -43,6 +43,7 @@ Here is a list of the problems included in this repository:
 ### [26. Sum Between Q and R](sumBetQandR.cpp)
 ### [27. Target Sum](targetSum.cpp)
 ### [28. Transpose of Matrix](transposeofMatrix.cpp)
+### [29. Find pivot index from array](pivote.cpp)
 
 ## Installation
 
