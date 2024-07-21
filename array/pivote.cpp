@@ -37,16 +37,17 @@ class solution{
             }
 
             return -1;
-        }     
+        }
+    
 };
 
 int main(){
-    vector<int>nums = {1,7,3,6,5,6};
+    vector<int>nums = {12, 15, 18, 2, 4};  
     solution s;
 
     int result = s.pivotIndex(nums);
 
-    cout<<"Pivot : "<<result;
+    cout<<"Pivot : "<<result<<endl;
     return 0; 
 }
 
