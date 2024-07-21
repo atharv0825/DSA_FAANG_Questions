@@ -38,8 +38,8 @@ FAANG companies are known for their rigorous interview processes that test a can
 The repository is organized into the following folders:
 
 ### [1.Array](array)
-### [1.Graph](Graph)
-### [2.Tree](Tree)
+### [2.Graph](Graph)
+### [3.Tree](Tree)
 
 
 Each folder contains code files for the respective topics, along with their executable files.
