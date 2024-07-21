@@ -7,7 +7,7 @@ Welcome to the **DSA FAANG Questions** repository! This repository contains a co
 
 #### Please read the README file inside this folder to explore the questions related to each algorithms (I mentioned questions in README.MD).
 
-
+  
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Why DSA?](#why-dsa)
