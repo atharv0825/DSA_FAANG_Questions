@@ -45,6 +45,8 @@ Here is a list of the problems included in this repository:
 ### [28. Transpose of Matrix](transposeofMatrix.cpp)
 ### [29. Find pivot index from array](pivote.cpp)
 ### [30. Square Root of the Number](squareRoot.cpp)
+### [31. Book Allocation](BookAlloction.cpp)
+### [32. Painter Partition](painterPartition.cpp)
 
 ## Installation
 
