@@ -47,6 +47,7 @@ Here is a list of the problems included in this repository:
 ### [30. Square Root of the Number](squareRoot.cpp)
 ### [31. Book Allocation](BookAlloction.cpp)
 ### [32. Painter Partition](painterPartition.cpp)
+### [33. Aggressive Cow](AggressiveCow.cpp)
 
 ## Installation
 
