@@ -25,6 +25,7 @@ Graph algorithms are a fundamental part of computer science and are frequently f
 ### 8. [Detect cycle in directed Graph](isCycleDirected.cpp) 
 ### 9. [Find shortest path in Unweighted Graph](shortestPathUW.cpp)
 ### 10. [Minimum Spanning Tree (Kruskal's Algorithm)](minimumSpanningTree.cpp)
+### 11. [Check Bridge i n Undirected Graph](CheckBridge.cpp)
 
 ## Installation
 
