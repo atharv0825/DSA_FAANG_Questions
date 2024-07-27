@@ -48,6 +48,8 @@ Here is a list of the problems included in this repository:
 ### [31. Book Allocation](BookAlloction.cpp)
 ### [32. Painter Partition](painterPartition.cpp)
 ### [33. Aggressive Cow](AggressiveCow.cpp)
+### [34. Merge Two Sorted Array](mergeSorted.cpp)
+
 
 ## Installation
 
