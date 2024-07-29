@@ -49,6 +49,7 @@ Here is a list of the problems included in this repository:
 ### [32. Painter Partition](painterPartition.cpp)
 ### [33. Aggressive Cow](AggressiveCow.cpp)
 ### [34. Merge Two Sorted Array](mergeSorted.cpp)
+### [35. Move zeros at end](moveZeros.cpp)
 
 
 ## Installation
